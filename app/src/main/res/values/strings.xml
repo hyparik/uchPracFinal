@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">z2</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Products</string>
+    <string name="title_notifications">Movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment1">fragment1</string>
+    <string name="fragment2">fragment2</string>
+    <string name="group">Группа</string>
+    <string name="sname">Фамилия</string>
+    <string name="save">Сохранить</string>
+    <string name="fname">Имя</string>
+    <string name="_descr">img</string>
+    <string name="title_products">Продукты</string>
+    <string name="movie">Фильмы</string>
+    <string name="films">Фильмы</string>
+    <string name="web">web</string>
+</resources>
